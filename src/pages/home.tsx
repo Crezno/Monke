@@ -26,9 +26,9 @@ export default function Index() {
             <a href="" className='block'><motion.img animate={{ rotate: ['1deg', '-1deg', '1deg'] }} transition={{ duration: 4, repeat: Infinity }} src="/img/discord-advt.gif" alt="" /></a>
 
             <div className='flex justify-center gap-6'>
-                <a href=""><img className='h-32' src="/img/discord.png" alt="" /></a>
-                <a href=""><img className='h-32' src="/img/twitter.png" alt="" /></a>
-            </div>
+    <a href="https://discord.gg/ZRp4QAPF"><img className='h-32' src="/img/discord.png" alt="" /></a>
+    <a href="https://twitter.com/TheSillyMonke"><img className='h-32' src="/img/twitter.png" alt="" /></a>
+</div>
         </div>
     </>
 }
