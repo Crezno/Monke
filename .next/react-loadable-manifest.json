@@ -4,5 +4,11 @@
     "files": [
       "static/chunks/node_modules_howler_dist_howler_js.js"
     ]
+  },
+  "index.tsx -> ../components/Particles": {
+    "id": "index.tsx -> ../components/Particles",
+    "files": [
+      "static/chunks/src_components_Particles_tsx.js"
+    ]
   }
 }
