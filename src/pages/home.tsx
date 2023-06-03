@@ -11,14 +11,14 @@ export default function Index() {
                         <div className="grid grid-cols-2 md:grid-cols-1 gap-4">
                             <Link href="/"><img className='w-64' src="/img/button-home.png" alt="" /></Link>
                             <Link href="/about"><img className='w-64' src="/img/button-about.png" alt="" /></Link>
-                            <Link href="/Whitelist"><img className='w-64' src="/img/button-mint.png" alt="" /></Link>
-                            <Link href="#" className='opacity-25 cursor-not-allowed'><img className='w-64' src="/img/button-collection.png" alt="" /></Link>
+                            <Link href="https://docs.google.com/forms/d/e/1FAIpQLScZ0CD8PNf_OOw_-gFj95c0WOYVqJydUNytNU0r8-ESocp2GQ/viewform"><img className='w-64' src="/img/Whitelist button.png" alt="" /></Link>
+                           <Link href="https://www.scatter.art/silly-monke?tab=mint" target="_blank"><img className='w-64' src="/img/button-collection.png" alt="" /></Link>
                         </div>
                     </div>
                     <div className='flex flex-col items-center'>
                         <img className='w-40 md:w-60' src="/img/crezno-presents.png" alt="" />
                         <motion.img animate={{ rotate: ['1deg', '-1deg', '1deg'] }} transition={{ duration: 4, repeat: Infinity }} className='w-full max-w-lg -mb-12 md:-mb-24 z-10' src="/img/silly-monke-logo.png" alt="" />
-                        <motion.img animate={{ rotate: ['-1deg', '1deg', '-1deg'] }} transition={{ duration: 4, repeat: Infinity }} className="max-w-xl w-full" src="/img/loop.gif" alt="" />
+                        <motion.img animate={{ rotate: ['-1deg', '1deg', '-1deg'] }} transition={{ duration: 4, repeat: Infinity }} className="max-w-xl w-full" src="/img/loop2.gif" alt="" />
                     </div>
                 </div>
                 <a href="" className='block'><motion.img animate={{ rotate: ['1deg', '-1deg', '1deg'] }} transition={{ duration: 4, repeat: Infinity }} src="/img/discord-advt.gif" alt="" /></a>
