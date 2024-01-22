@@ -11,7 +11,7 @@ export default function Index() {
                         <div className="grid grid-cols-2 md:grid-cols-1 gap-4">
                             <Link href="/"><img className='w-64' src="/img/button-home.png" alt="" /></Link>
                             <Link href="/about"><img className='w-64' src="/img/button-about.png" alt="" /></Link>
-                            <Link href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleym"><img className='w-64' src="/img/store.png" alt="" /></Link>
+                            <Link href="https://76fad2-4.myshopify.com/" /></Link>
                            <Link href="https://www.scatter.art/silly-monke?tab=mint" target="_blank"><img className='w-64' src="/img/button-collection.png" alt="" /></Link>
                         </div>
                     </div>
