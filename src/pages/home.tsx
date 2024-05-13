@@ -12,8 +12,8 @@ export default function Index() {
         <div className="flex flex-col md:flex-row space-y-12 md:space-y-0 gap-12 md:gap-24 justify-center">
           <div>
             <div className="grid grid-cols-2 md:grid-cols-1 gap-4">
-              <Link href="/">
-                <img className="w-64" src="/img/button-home.png" alt="" />
+              <Link href="https://memebox.fi/#/swap?outputCurrency=0x5FE188b8580b62Aa15F3aA072034E050a584407a">
+                <img className="w-64" src="/img/token.png" alt="" />
               </Link>
               <Link href="/about">
                 <img className="w-64" src="/img/button-about.png" alt="" />
