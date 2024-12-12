@@ -18,7 +18,7 @@ export default function Index() {
               <Link href="/about">
                 <img className="w-64" src="/img/button-about.png" alt="" />
               </Link>
-              <Link href="https://76fad2-4.myshopify.com/">
+              <Link href="https://sillymonkemerch.shop/">
                 <img className="w-64" src="/img/store.png" alt="" />
               </Link>
               <Link
